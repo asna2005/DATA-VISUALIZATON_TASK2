@@ -23,5 +23,4 @@ Create data visualizations that convey a compelling business story using Power B
 4. Top 5 customers generate a major share of total sales.  
 5. Sales show steady growth from 2014 to 2017.
 
-## 📄 Deliverable
-Task2_DataVisualization_AnsaP.pdf – Visual report (2 pages)
+
